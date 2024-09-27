@@ -1,11 +1,10 @@
-<h1 align="center">
-  <span id="typewriter"></span>
+<h1 align="center">Hii, I am
+  <Strong>Sagar Sharma</span></Strong>
 </h1>
 <h3 align="center">I'm a passionate student on a journey to expand my knowledge and skills across various domains.</h3>
 
 - 🔭 I'm currently working on **PHP**
 - 🌱 I'm currently learning **Laravel**
-- 👨‍💻 All of my projects are available at [Sagarsharma11.com.np](Sagarsharma11.com.np)
 - 📫 How to reach me **sharmasagar1961@gmail.com**
 - 📄 Know about my experiences [Sagarsharma11.com.np](Sagarsharma11.com.np)
 - ⚡ Fun fact **I think I am Funny**
@@ -28,34 +27,4 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmasagar33&show_icons=true&locale=en&layout=compact" alt="sharmasagar33" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharmasagar33&" alt="sharmasagar33" /></p>
 
-<style>
-  @keyframes blink {
-    0% { opacity: 1; }
-    50% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-  
-  #typewriter::after {
-    content: '|';
-    animation: blink 0.7s infinite;
-  }
-</style>
-
-<script>
-  const text = "Hi 👋, I'm Sagar Sharma";
-  let i = 0;
-  const speed = 100; // Adjust the speed of typing here (lower value = faster)
-
-  function typeWriter() {
-    if (i < text.length) {
-      document.getElementById("typewriter").innerHTML += text.charAt(i);
-      i++;
-      setTimeout(typeWriter, speed);
-    }
-  }
-
-  window.onload = typeWriter;
-</script>
