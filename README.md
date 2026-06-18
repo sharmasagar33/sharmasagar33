@@ -1,11 +1,18 @@
-<h1 align="center">Hii, I am
-  <Strong>Sagar Sharma</span></Strong>
+<h1 align="center">
+  Hi, I am <strong>Sagar Sharma</strong>
 </h1>
-<h3 align="center">I'm a passionate student on a journey to expand my knowledge and skills across various domains.</h3>
 
-- 🔭 I'm currently working on **PHP**
-- 🌱 I'm currently learning **Laravel**
-- 📫 How to reach me **sharmasagar1961@gmail.com**
+<h3 align="center">
+  A passionate IT student focused on Artificial Intelligence, Data Analytics, and Software Testing, continuously learning and building practical skills through real-world projects.
+</h3>
+
+---
+
+### 👨‍💻 About Me
+- 🔭 I’m currently working on learning **Artificial Intelligence and Data Analytics**
+- 🌱 I’m developing my skills in **Software Testing, Data Analytics, and AI concepts**
+- 💡 I enjoy solving real-world problems using data, testing, and intelligent systems
+- 📫 How to reach me: **sharmasagar1961@gmail.com**
 - 📄 Know about my experiences [Sagarsharma11.com.np](Sagarsharma11.com.np)
 - ⚡ Fun fact **I think I am Funny**
 
