@@ -62,9 +62,9 @@
     <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
   </a>
 
-  <a href="https://www.microsoft.com/microsoft-365" target=" blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/microsoft-365.png" alt="Microsoft 365" width="40" height="40"/>
-  </a>
+<a href="https://www.microsoft.com/" target=" blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Microsoft" width="40" height="40"/>
+</a>
 
   <a href="https://www.atlassian.com/software/jira" target=" blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="40" height="40"/>
